@@ -18,6 +18,7 @@
 
 <h3>Task 4 : Find out countries where the company can expand their business</h3>
 <p> Countries where presence is low/non-existent are regions where we can expand our presence </p>
+
  * In Southern-American region, we only have customers form Brazil, expanding our business to other regions has high growth potential
  * Majority of the African-continent is not covered by our services.
  * Non-existent presence in the Asian continent is a cause of concern, China and India can be huge drivers of growth. 
